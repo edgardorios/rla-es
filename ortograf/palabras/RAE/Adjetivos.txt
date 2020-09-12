@@ -300,7 +300,6 @@ adquisidor/GS
 adquisitivo/GS
 adrenal/S
 adriático/SG
-aduanal/S
 aduanero/GS
 aductor/GS
 adulador/GS
